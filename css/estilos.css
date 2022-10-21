@@ -36,3 +36,9 @@ body {
     background: white;
     padding: 1rem;
 }
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: grey;
+}
