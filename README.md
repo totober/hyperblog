@@ -8,3 +8,5 @@ Mi trabajo aqui ha terminado. :fa-eye:
 Adios, mi planeta me necesita. :fa-rocket:
 
 Sigo probando, linea 10 como el DIegote y el Leo Messi
+Sigo probando, linea 10 como el DIegote y el Leo Messi
+incluye imagenes exclusivas de la Scaloneta
